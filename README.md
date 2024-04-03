@@ -20,4 +20,4 @@ Today, most of the maritime surveillance systems rely on the automatic identific
 
 ### References
 
-I. Kontopoulos, K. Chatzikokolakis, D. Zissis, K. Tserpes, G. Spiliopoulos "Real-time maritime anomaly detection: detecting intentional AIS switch-off", *International Journal of Big Data Intelligence (IJBDI), Vol. 7, No. 2*, 2020.  
+I. Kontopoulos, K. Chatzikokolakis, D. Zissis, K. Tserpes, G. Spiliopoulos "Real-time maritime anomaly detection: detecting intentional AIS switch-off", *International Journal of Big Data Intelligence (IJBDI), Vol. 7, No. 2*, 2020. DOI: 10.1504/IJBDI.2020.107375
